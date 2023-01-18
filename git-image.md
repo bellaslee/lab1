@@ -24,5 +24,13 @@ image to that folder.  And finally commit everything to github!
 9. as before, edit this file and write here the commands you used.
    Hint: you have to do the edits and commit again, in a similar
    fashion as above.
+   
+   mkdir imgs
+   ls
+   cd imgs
+   ls
+   git add screenshot.jpeg
+   git commit -am "Add image"
+   git push
 
 Did the edits show up on github?
